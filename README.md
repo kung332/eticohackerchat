@@ -1,0 +1,2 @@
+# eticohackerchat
+chat ético-hacker
